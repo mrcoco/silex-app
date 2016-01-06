@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="{{ app.request.basepath }}/asset/css/css.css" />
+	<title>Welcome to login page</title>
+</head>
+<body>
+    {{ message }}
+	<form method="POST">
+		<input type="text" name="username" placeholder="username" value="{{ username }}" />
+		<input type="password" name="password" placeholder="password" />
+		<input type="submit" value="login" />
+	</form>
+
+    {{ app.request.basepath }}
+</body>
+</html>
