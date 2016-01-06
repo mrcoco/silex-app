@@ -1,6 +1,6 @@
 # Silex sample app skeleton
 
-Here it is a silex sample application skeleton, for a very fast installation and getting started project to build your website or blog with Silex PHP micro-framework 
+Here it is a silex sample application skeleton, getting started project to build your apps with Silex PHP micro-framework
 
 
 ### Requirements
@@ -14,6 +14,6 @@ Here it is a silex sample application skeleton, for a very fast installation and
 You only need to clone this repo and you'll be ready:
 
 ```sh
-$ git clone https://github.com/diegomariani/silex-sample-app your-project && cd your-project
+$ git clone https://github.com/mrcoco/silex-app.git your-project && cd your-project
 $ composer install
 ```
