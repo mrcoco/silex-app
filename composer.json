@@ -1,4 +1,17 @@
 {
+    "name": "mrcoco/silex-app",
+    "version": "dev-master",
+    "type": "project",
+    "description": "simple skeleton app with Silex web framework",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Dwi Agus Purwanto",
+            "email": "dwiagus@cempakaweb.com",
+            "homepage": "http://cempakaweb.com"
+        }
+    ],
+    "minimum-stability": "dev",
     "require": {
         "silex/silex": "^1.3",
         "twig/twig": "^1.23"
